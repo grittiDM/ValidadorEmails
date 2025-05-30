@@ -2,6 +2,9 @@
 
 # Validador de e-mails
 
+> [!NOTE]
+> Esse repositório está sob licença
+
 ___
 
 #### Ferramentas Utilizadas
